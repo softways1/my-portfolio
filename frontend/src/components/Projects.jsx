@@ -12,8 +12,7 @@ points: [
 'Developed comprehensive CRUD services for Movies, Cinemas, and Shows with complex relational mapping.',
 'Built a secure User and Auth module featuring role-based access control (RBAC) for Customers and Admins.',
 'Integrated automated mailing services for booking confirmations and ticket delivery.',
-'Designed a modular and extensible codebase following clean architecture principles for easy feature scaling.',
-'Deployed the service as a production-ready system suitable for real-world full-stack portfolios.'
+'Designed a modular and extensible codebase following clean architecture principles for easy feature scaling.'
 ],
 tech: ['Node.js', 'Express', 'MongoDB', 'Mongoose', 'JWT', 'Nodemailer', 'JavaScript'],
 githubUrl: '#'
