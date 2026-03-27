@@ -17,7 +17,7 @@ points: [
 ],
 tech: ['Node.js', 'Express', 'MongoDB', 'Mongoose', 'JWT', 'Nodemailer', 'JavaScript'],
 githubUrl: '#'
-}
+},
     {
       title: 'OIDC-Compatible Authentication Microservice',
       points: [
