@@ -5,6 +5,20 @@ import { FaGithub } from 'react-icons/fa';
 const Projects = () => {
   const projects = [
     {
+title: 'Scalable Movie Booking & Ticketing Backend',
+points: [
+'Architected a high-concurrency backend system for movie discovery, theater management, and seat reservations.',
+'Implemented a robust booking engine with transaction management to handle simultaneous seat selections and prevent double-booking.',
+'Developed comprehensive CRUD services for Movies, Cinemas, and Shows with complex relational mapping.',
+'Built a secure User and Auth module featuring role-based access control (RBAC) for Customers and Admins.',
+'Integrated automated mailing services for booking confirmations and ticket delivery.',
+'Designed a modular and extensible codebase following clean architecture principles for easy feature scaling.',
+'Deployed the service as a production-ready system suitable for real-world full-stack portfolios.'
+],
+tech: ['Node.js', 'Express', 'MongoDB', 'Mongoose', 'JWT', 'Nodemailer', 'JavaScript'],
+githubUrl: '#'
+}
+    {
       title: 'OIDC-Compatible Authentication Microservice',
       points: [
         'Designed and developed a standards-compliant authentication service implementing OAuth 2.0 and OIDC.',
