@@ -22,7 +22,7 @@ const Hero = () => {
             <span className="heading-gradient">Aman Kumar Singh</span>
           </h1>
           <p className="text-gray-400 text-lg md:text-xl mb-8 max-w-2xl leading-relaxed">
-            I am a CSE student and full-stack developer passionate about building scalable and professional web applications using the MERN stack.
+            I am a Computer Science student and full-stack developer specializing in building scalable backend services and robust web applications using the MERN stack.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start mb-12">
             <a href="#projects" className="btn-primary flex items-center justify-center gap-2">
