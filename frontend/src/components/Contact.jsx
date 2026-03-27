@@ -56,7 +56,7 @@ const Contact = () => {
             className="flex flex-col justify-center space-y-8"
           >
             <h3 className="text-2xl font-bold text-white mb-2">Let's build something amazing together!</h3>
-            <p className="text-gray-400">Feel free to reach out for a coffee chat or if you have a great project in mind. I am currently open to new opportunities.</p>
+            <p className="text-gray-400">Feel free to reach out, if you have a great project in mind. I am currently open to new opportunities.</p>
             
             <div className="space-y-6">
               <div className="flex items-center gap-4">
