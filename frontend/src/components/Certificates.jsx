@@ -12,7 +12,7 @@ const Certificates = () => {
       link: 'https://www.udemy.com/certificate/UC-6695b7df-c23f-4785-8cbd-23c5d7400fa0/',
     },
     {
-      title: 'Programming Java',
+      title: 'Programming In Java',
       issuer: 'Udemy',
       date: 'Obtained',
       description: 'Extensive coursework focusing on core Java programming principles, Object-Oriented design, multithreading, and advanced software development techniques.',
@@ -26,7 +26,7 @@ const Certificates = () => {
       link: 'https://pwskills.com/learn/certificate/8dd0c28c-0e4e-434c-882f-a652876e3dfd/',
     },
     {
-      title: 'Advance Data Structure',
+      title: 'Advance Data Structure and Algorithm Training',
       issuer: 'Lovely Professional University (LPU)',
       date: 'Aug 20, 2025',
       description: 'Advanced institutional certification verifying deep technical proficiency in complex data structures, algorithmic design, and rigorous problem-solving at scale.',
